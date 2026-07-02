@@ -15,19 +15,19 @@ Draw or prepare a compact 15-tile source sheet that follows the Wang Format, loa
 
 ## How It Works
 
-1. **1 - Load Texture**  
+1. **Load Texture**  
    Choose your 15-tile source image from your device. PNG and JPG images are supported.
 
-2. **2 - Check the fit**  
+2. **Check the fit**  
    Turn on the **Grid** and **Mask** overlays to confirm your artwork matches the expected tile positions. There are separate masks for TopDown terrain and Platformer, since the tool expects strict format and tile position for each. You can load the "Demo Tiles" to see an example of tiles required. 
 
-3. **3 - Choose the tile size**  
+3. **Choose the tile size**  
    Select the tile size that matches your artwork: 8, 16, 24, 32, 48, 64, 128, 256, 512, or 1024 pixels.
 
-4. **4- Create Tiles**  
+4. **Create Tiles**  
    Generate the 47-tile Blob output from your source sheet.
 
-5. **5- Export**  
+5. **Export**  
    Save the finished tileset as a PNG.
 
 ## Built-In Visual Helpers
