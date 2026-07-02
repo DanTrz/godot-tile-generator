@@ -4,6 +4,9 @@ Turn a small 15-tile Wang tileset into a full 47-tile Blob tileset for Godot.
 
 **Open the tool:** https://dantrz.github.io/godot-tile-generator-webapp/
 
+<img width="911" height="358" alt="GodotTileGeneratorConvertSolid" src="https://github.com/user-attachments/assets/8841c9e8-cfd4-499a-bb60-b722818909f3" />
+
+
 ## Make More Autotile Coverage With Less Drawing
 
 This tool is for anyone who want Godot-ready terrain tiles without hand-building every 47 tile Blob variation.
